@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\HesaplamaTool.exe
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\HesaplamaTool.deps.json
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\HesaplamaTool.runtimeconfig.json
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\HesaplamaTool.dll
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\ref\HesaplamaTool.dll
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\bin\Debug\net6.0\HesaplamaTool.pdb
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.AssemblyInfo.cs
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.dll
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\ref\HesaplamaTool.dll
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.pdb
+C:\Users\burak\source\repos\HesaplamaTool\HesaplamaTool\obj\Debug\net6.0\HesaplamaTool.genruntimeconfig.cache
